@@ -1,0 +1,20 @@
+
+.container{
+    width:500px;
+    height: 250px;
+    padding:16px;
+    background-color: rgba(27, 37, 164, 0.3);
+    border-radius: 5px;
+    box-shadow: 0 0px 10px #111;
+    margin-right: 100px;
+
+}
+
+.line_one{
+    font: 48px bold ;
+}
+
+.line_two{
+    font: 25px bold;
+
+}

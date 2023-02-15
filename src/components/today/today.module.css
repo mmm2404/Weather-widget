@@ -1,0 +1,57 @@
+.card_container{
+    width:500px;
+    height: 250px;
+    padding:16px;
+    display: flex;
+    flex-direction: row;
+    gap:70px;
+    background-color:  rgba(27, 37, 164, 0.3);
+    border-radius: 5px;
+    box-shadow: 0 0px 10px #111;
+    margin: 0px;
+}
+.unit__icon {
+    width: 22px;
+    height:22px;
+    align-self: 'center';
+
+}
+.unit__icon1{
+    width: 22px;
+    height:22px;
+    align-self: 'center';
+    font-size: 15px;
+
+}
+.weather__icon{
+    width: 90px;
+    height: 90px;
+    
+}
+
+.temperature{
+    font:48px bold;
+    margin: 10px 0px;
+}
+.description{
+    font:20px bold;
+    margin: 10px 0px 30px;
+}
+.span{
+    font-weight: bold;
+    margin-right: 10px;
+}
+.text__right{
+    font:20px bold;
+    float:right;
+}
+
+.sunrise{
+    margin-bottom: 10px;
+}
+ .text_left{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+ }

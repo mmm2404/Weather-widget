@@ -1,0 +1,13 @@
+.container_daily{
+    width:1200px;
+    margin: 0 auto;
+
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap:40px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-radius: 2%;
+ 
+}
+
